@@ -35,7 +35,7 @@
             // 
             centerButton.BackColor = Color.OrangeRed;
             centerButton.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            centerButton.Location = new Point(484, 256);
+            centerButton.Location = new Point(200, 256);
             centerButton.Name = "centerButton";
             centerButton.Size = new Size(214, 122);
             centerButton.TabIndex = 0;
