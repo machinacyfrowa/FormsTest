@@ -6,5 +6,10 @@ namespace FormsTest
         {
             InitializeComponent();
         }
+
+        private void ButtonClicked(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
